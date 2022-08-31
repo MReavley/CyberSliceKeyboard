@@ -10,8 +10,11 @@
 - RP2040 per side, with 16MB of flash  
 - Laser cut aluminium plate, custom designed 3D printed case with magnets  
 - Footprints for magnetic pogo connectors on each side
+- Breakaway tabs convert from 42 to 36 key  
 
 ![Picture of the CyberSlice42 plugged in](https://github.com/MReavley/CyberSliceKeyboard/blob/main/Photos/IMG_1325.JPG)
+
+![Picture of the CyberSlice36 (and CS42 behind it)](https://github.com/MReavley/CyberSliceKeyboard/blob/main/Photos/CS36%20demo.jpg)
 
 ## If you want to build:
 This board is just a prototype, and there are a couple pointers to watch out for:
